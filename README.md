@@ -1,3 +1,5 @@
+![logo1](https://github.com/user-attachments/assets/baec3106-7ba3-4720-b593-6a3fe5f49341)
+
 Patient History: View all previous appointments and medical records in a tabular format.
 
 Responsive Design: Ensures usability across different devices and screen sizes.
